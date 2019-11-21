@@ -1,0 +1,9 @@
+from Python_Bootcamp_Full_Syllabus.SampleModule import Module
+from Python_Bootcamp_Full_Syllabus.SubModule.SubScript import printworld
+from Python_Bootcamp_Full_Syllabus.SubModule import SubScript
+
+
+m = Module()
+m.printHello()
+printworld()
+SubScript.printworld()

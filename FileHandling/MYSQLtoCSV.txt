@@ -1,0 +1,15 @@
+'Jennings', 6
+'Thompson', 6
+'Firrelli', 6
+'Patterson', 6
+'Tseng', 7
+'Vanauf', 8
+'Bondur', 6
+'Hernandez', 7
+'Castillo', 10
+'Bott', 8
+'Jones', 9
+'Fixter', 5
+'Marsh', 5
+'Nishi', 5
+'Gerard', 6
